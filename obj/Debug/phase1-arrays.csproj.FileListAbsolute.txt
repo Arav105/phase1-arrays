@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-arrays\phase1-arrays\bin\Debug\phase1-arrays.exe.config
+C:\Users\Admin\source\repos\phase1-arrays\phase1-arrays\bin\Debug\phase1-arrays.exe
+C:\Users\Admin\source\repos\phase1-arrays\phase1-arrays\bin\Debug\phase1-arrays.pdb
+C:\Users\Admin\source\repos\phase1-arrays\phase1-arrays\obj\Debug\phase1-arrays.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-arrays\phase1-arrays\obj\Debug\phase1-arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-arrays\phase1-arrays\obj\Debug\phase1-arrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-arrays\phase1-arrays\obj\Debug\phase1-arrays.exe
+C:\Users\Admin\source\repos\phase1-arrays\phase1-arrays\obj\Debug\phase1-arrays.pdb
